@@ -887,11 +887,11 @@ class Main:
 
 	def old(self):
 
-		x = 111111111
+		x = 11111111
 
-		xx = 999999999
+		xx = 99999999
 
-		idx = "1" 
+		idx = "7" 
 
 		os.system('clear');print(logo)
 
